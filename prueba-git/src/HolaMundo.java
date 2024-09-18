@@ -7,7 +7,6 @@ public static void main(String[] args) {
 	array.add("Hello");
 	for (String s:array) {
 		System.out.println(s);
-		array.add("Hola");
 	}
 }
 }
