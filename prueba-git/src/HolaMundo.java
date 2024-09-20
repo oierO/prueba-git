@@ -8,6 +8,6 @@ public static void main(String[] args) {
 	for (String s:array) {
 		System.out.println(s);
 	}
-	System.out.println("Prueba de edición en la web!!");
+	
 }
 }
