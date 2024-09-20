@@ -8,6 +8,7 @@ public static void main(String[] args) {
 	for (String s:array) {
 		System.out.println(s);
 	}
-	System.out.println("Otro mensaje");
+
+	System.out.println("Mensaje diferente :)");
 }
 }
